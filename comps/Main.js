@@ -4,7 +4,7 @@ import Bot from "./Bot";
 import Top from "./Top";
 import Story from "./Story";
 import Controls from "./Controls";
-import
+import ControlsStyles from "../styles/ControlsStyles";
 
 
 export default function Main(){}

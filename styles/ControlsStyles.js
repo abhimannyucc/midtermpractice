@@ -15,4 +15,4 @@ const ControlsStyles = StyleSheet.create({
     }
 });
 
-export default ControlsStyles
+export default ControlsStyles;
