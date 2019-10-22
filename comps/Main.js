@@ -9,6 +9,7 @@ import ControlsStyles from "../styles/ControlsStyles";
 
 export default function Main(){}
     return(
+        // fix this
         <View>
             {Top}
             {Story}
