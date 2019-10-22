@@ -1,3 +1,4 @@
+import React from 'react';
 import {StyleSheet} from 'react-native';
  
 var styles = StyleSheet.create({
@@ -5,7 +6,6 @@ var styles = StyleSheet.create({
         flex: 1,
         justifyContent: "center",
         alignItems: "center",
-        width: "100%"
     }
 });
  
